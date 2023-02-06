@@ -1,4 +1,12 @@
 I am neel.
+<<<<<<< HEAD
+I am form v.v.nagar
+phone :9510506832
+college:mbit
+My SPI 9.2
+i have 5 backlogs
+jsm
+=======
 I am form anand
 neel patel as manager
 piyu patel as a tutor
@@ -6,3 +14,4 @@ SPI 8.2
 my firnds are neel, kedar 
 manav patel
 neel patel
+>>>>>>> dev1branch
